@@ -3,6 +3,7 @@ import time
 
 def hello_world():
     print("hello world")
+    print("This is world")
 
 def bye_world():
 	time.sleep(2)
